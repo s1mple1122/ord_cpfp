@@ -1,2 +1,3 @@
 # ord_cpfp
-实现ord的cpfp模式
+这个代码库用比较简单粗暴的方式实现了ord的cpfp,让btc在一个区块按顺序打包所有的ord消息
+这样就可以实现mint完自己deploy的铭文,防止被其他傻逼恶意mint
